@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Paises xmlns="http://tempuri.org/DataSchema.xsd">
+  <Pais>
+    <Nombre>España</Nombre>
+    <Codigo>ES</Codigo>
+    
+  </Pais>
+</Paises>

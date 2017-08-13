@@ -53,7 +53,6 @@
     <Content Include="Xml\NombresPersonas.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Xml\Paises.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Xml\DataSchema.xsd">

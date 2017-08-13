@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Paises xmlns="http://tempuri.org/DataSchema.xsd">
+  <Pais>
+    <Nombre>España</Nombre>
+    <Codigo>ES</Codigo>
+    <EstadoMiembro>true</EstadoMiembro>
+  </Pais>
+  <Pais>
+    <Nombre>Francia</Nombre>
+    <Codigo>FR</Codigo>
+    <EstadoMiembro>true</EstadoMiembro>
+  </Pais>
+  <Pais>
+    <Nombre>Alemania</Nombre>
+    <Codigo>DE</Codigo>
+    <EstadoMiembro>true</EstadoMiembro>
+  </Pais>
+  <Pais>
+    <Nombre>Portugal</Nombre>
+    <Codigo>PT</Codigo>
+    <EstadoMiembro>true</EstadoMiembro>
+  </Pais>
+</Paises>
