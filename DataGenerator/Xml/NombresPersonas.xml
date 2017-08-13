@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Nombres xmlns="http://tempuri.org/DataSchema.xsd">
+  <Nombre>Óscar</Nombre>
+  <Nombre>Borja</Nombre>
+  <Nombre>Ramón</Nombre>
+  <Nombre>David</Nombre>
+  <Nombre>Francisco</Nombre>
+  <Nombre>Pedro</Nombre>
+  <Nombre>María</Nombre>
+  <Nombre>Carla</Nombre>
+  <Nombre>Andrea</Nombre>
+  <Nombre>Katy</Nombre>
+  <Nombre>Cristina</Nombre>
+  <Nombre>Carlos</Nombre>
+  <Nombre>Álvaro</Nombre>
+  <Nombre>Rodrigo</Nombre>
+  <Nombre>Sandra</Nombre>
+  <Nombre>Tamara</Nombre>
+  <Nombre>Juan</Nombre>
+  <Nombre>Jorge</Nombre>
+  <Nombre>Alberto</Nombre>
+  <Nombre>Diego</Nombre>
+  <Nombre>Ana</Nombre>
+  <Nombre>Marta</Nombre>
+</Nombres>
+
+
+
